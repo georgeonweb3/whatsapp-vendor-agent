@@ -1,0 +1,173 @@
+{
+    "delivery_zones": {
+        "Abuja": 5000,
+        "Ibadan": 3500,
+        "Ikeja": 1500,
+        "Lekki": 2500,
+        "Port Harcourt": 6000,
+        "Surulere": 1500,
+        "Victoria Island": 2000,
+        "Yaba": 1200
+    },
+    "free_delivery_above": 100000,
+    "products": [
+        {
+            "description": "Premium Ankara gown, ready to wear, lined.",
+            "id": "ankara-gown",
+            "keywords": [
+                "ankara",
+                "gown",
+                "dress"
+            ],
+            "name": "Ankara Gown",
+            "price": 35000,
+            "stock": 12,
+            "variants": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ]
+        },
+        {
+            "description": "Two-piece senator set, quality wool blend.",
+            "id": "senator-set",
+            "keywords": [
+                "senator",
+                "men",
+                "native",
+                "senator set"
+            ],
+            "name": "Men's Senator Set",
+            "price": 45000,
+            "stock": 8,
+            "variants": [
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ]
+        },
+        {
+            "description": "Lightweight unisex sneakers, white and black.",
+            "id": "sneakers",
+            "keywords": [
+                "sneakers",
+                "shoes",
+                "trainers",
+                "kicks"
+            ],
+            "name": "Unisex Sneakers",
+            "price": 28000,
+            "stock": 20,
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ]
+        },
+        {
+            "description": "Luxury asoebi lace, 5 yards, perfect for owambe.",
+            "id": "asoebi-lace",
+            "keywords": [
+                "asoebi",
+                "lace",
+                "aso ebi"
+            ],
+            "name": "Asoebi Lace - 5 Yards",
+            "price": 65000,
+            "stock": 5,
+            "variants": [
+                "Gold",
+                "Wine",
+                "Emerald",
+                "Royal Blue"
+            ]
+        },
+        {
+            "description": "Structured leather handbag with inner pockets.",
+            "id": "handbag",
+            "keywords": [
+                "handbag",
+                "bag",
+                "purse",
+                "leather bag"
+            ],
+            "name": "Ladies Leather Handbag",
+            "price": 22000,
+            "stock": 0,
+            "variants": [
+                "Black",
+                "Brown",
+                "Nude"
+            ]
+        },
+        {
+            "description": "Comfortable jalabia, breathable cotton.",
+            "id": "jalabia",
+            "keywords": [
+                "jalabia",
+                "jalabiya",
+                "thobe",
+                "robe"
+            ],
+            "name": "Men's Jalabia",
+            "price": 18000,
+            "stock": 15,
+            "variants": [
+                "White",
+                "Cream",
+                "Grey"
+            ]
+        },
+        {
+            "description": "Pre-tied auto gele, no stress, just wear and go.",
+            "id": "headtie-gele",
+            "keywords": [
+                "gele",
+                "head tie",
+                "headtie",
+                "auto gele"
+            ],
+            "name": "Auto Gele Head Tie",
+            "price": 12000,
+            "stock": 30,
+            "variants": [
+                "Gold",
+                "Silver",
+                "Red",
+                "Purple"
+            ]
+        },
+        {
+            "description": "Agbada style set for kids, top and trouser.",
+            "id": "kids-trad",
+            "keywords": [
+                "kids",
+                "children",
+                "traditional",
+                "kids wear"
+            ],
+            "name": "Kids Traditional Wear Set",
+            "price": 20000,
+            "stock": 10,
+            "variants": [
+                "2-3yrs",
+                "4-5yrs",
+                "6-7yrs",
+                "8-9yrs"
+            ]
+        }
+    ],
+    "vendor": {
+        "hours": "Mon-Sat 8am-7pm",
+        "location": "Balogun Market, Lagos Island",
+        "name": "Adaeze Styles",
+        "paystack_slug": "adaeze-styles",
+        "slug": "adaeze-styles",
+        "whatsapp": "+2348012345678"
+    }
+}

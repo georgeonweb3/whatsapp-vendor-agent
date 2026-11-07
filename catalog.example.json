@@ -1,0 +1,35 @@
+{
+    "delivery_zones": {
+        "Abuja": 5000,
+        "Ibadan": 3500,
+        "Ikeja": 1500,
+        "Lekki": 2500,
+        "Port Harcourt": 6000
+    },
+    "free_delivery_above": 100000,
+    "products": [
+        {
+            "description": "Short description for customer.",
+            "id": "example-product-1",
+            "keywords": [
+                "example",
+                "sample"
+            ],
+            "name": "Example Product 1",
+            "price": 10000,
+            "stock": 10,
+            "variants": [
+                "Small",
+                "Large"
+            ]
+        }
+    ],
+    "vendor": {
+        "hours": "Mon-Sat 9am-6pm",
+        "location": "Your shop address, City",
+        "name": "Your Store Name",
+        "paystack_slug": "your-store-slug",
+        "slug": "your-store-slug",
+        "whatsapp": "+2348000000000"
+    }
+}
